@@ -1,0 +1,9 @@
+certifi==2018.11.29
+chardet==3.0.4
+idna==2.8
+pkg-resources==0.0.0
+requests==2.21.0
+ruamel.yaml==0.15.88
+urllib3==1.24.1
+vext==0.7.3
+vext.gi==0.7.0
